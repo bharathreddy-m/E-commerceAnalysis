@@ -1,0 +1,26 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+jupyter
+statsmodels
+xgboost
+lightgbm
+tensorflow
+keras
+
+Explanation of Each Library:
+pandas: Data manipulation and analysis.
+numpy: Numerical operations and handling arrays.
+scikit-learn: Machine learning algorithms and tools.
+matplotlib: Data visualization.
+seaborn: Statistical data visualization based on Matplotlib.
+scipy: Scientific and technical computing.
+jupyter: Creating and sharing documents containing live code and visualizations.
+statsmodels: For statistical modeling.
+xgboost: An efficient implementation of gradient boosting for supervised learning problems.
+lightgbm: A gradient boosting framework that uses tree-based learning algorithms.
+tensorflow: An end-to-end open-source platform for machine learning (if using neural networks).
+keras: A high-level neural networks API, running on top of TensorFlow.
